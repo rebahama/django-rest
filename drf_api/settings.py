@@ -57,7 +57,8 @@ INSTALLED_APPS = [
     'profiles_drf',
     'posts',
     'comments',
-    'likes'
+    'likes',
+    'followers'
 
 ]
 
